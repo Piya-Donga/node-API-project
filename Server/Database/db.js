@@ -7,6 +7,9 @@ const db = mongoose.connect("mongodb://127.0.0.1:27017/std1" ,(err) =>
         console.log("database connect..")
     }else{
         console.log("datbase not connect")
+        console.log("datbase not connect")
+        console.log("datbase not connect")
+        console.log("datbase not connect")
     }
 })
 
